@@ -308,7 +308,13 @@ ul {
 	color: #fff;
 	font-weight: 300;
 }
-
+.home-content h4 {
+	padding-top: 10px;
+	font-size: 20px;
+	text-transform: uppercase;
+	color: #fff;
+	font-weight: 300;
+}
 .home-content h1 em {
 	margin-right: 20px;
 	font-size: 80px;
